@@ -10,3 +10,11 @@ I am a freelancer specializing in website development. My goal is to gain knowle
 + CSS
 + Figma
 + Adobe Photoshop, Illustrator
+## Code Examples
+`console.log('Hello, World!');`
+## Education
++ Kuban State University
+- Faculty of Computer Technology and Applied Mathematics
+## Languages
++ Russian
++ English - A2 (Elementary)
